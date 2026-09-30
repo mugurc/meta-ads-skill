@@ -1,0 +1,6 @@
+{
+  "name": "meta-ads",
+  "description": "Claude Code skill for a Meta (Facebook/Instagram) ad account: read-only status report, safe budget script, SKAN and learning-phase rules.",
+  "version": "0.1.0",
+  "license": "MIT"
+}

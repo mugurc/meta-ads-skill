@@ -1,0 +1,11 @@
+{
+  "name": "meta-ads-skill",
+  "owner": { "name": "meta-ads-skill" },
+  "plugins": [
+    {
+      "name": "meta-ads",
+      "source": "./",
+      "description": "Meta ad account analysis and safe change scripts (SKAN, learning phase)."
+    }
+  ]
+}
